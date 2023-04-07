@@ -26,7 +26,6 @@ The command above will load the default pretrained weights that come with this r
 cd <root of the repo>
 python inference.py --file <path/to/img/> --weight <path/to/weights>
 ```
-https://drive.google.com/file/d/1FymJaDmEJdzw5MXmV7v7XZkmMg6mx31J/view?usp=share_link
 
 ## Train
 
